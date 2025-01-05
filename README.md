@@ -69,7 +69,7 @@ The project aims to evaluate whether introducing a banner for the food and drink
 ## Contact
 
 For questions or collaboration opportunities, please reach out to:
-**Christopher H. Kroll: ChristopherHKroll@gmail.com**
+**Christopher H. Kroll**: ChristopherHKroll@gmail.com
 
 ---
 
