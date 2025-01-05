@@ -1,0 +1,7 @@
+user_group,COUNT of id,AVERAGE of sum_spent,VARP of sum_spent,Hypothesis Test,,Confidence interval (95%),
+A,24343,3.374518468,672.6687211,T =,0.07042634919,Sample statistic =,0.01634847796
+B,24600,3.390866946,645.8507116,p-value =,0.9438548982,Standard error =,0.2321358149
+Grand Total,48943,3.38273563,659.1893724,,,Critical value =,1.960061445
+,,,,,,Margin of error =,0.4550004607
+,,,,,,Lower bound =,-0.4386519828
+,,,,,,Upper bound =,0.4713489387

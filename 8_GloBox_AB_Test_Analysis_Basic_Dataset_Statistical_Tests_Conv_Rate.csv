@@ -1,0 +1,7 @@
+user_group,COUNT of id,SUM of is_converted,Conversion Rate,Hypothesis Test,,Confidence interval (95%),
+A,24343,955,0.03923099043,Z =,3.86429177,Sample statistic =,0.00706982258
+B,24600,1139,0.04630081301,p-value =,0.0001114119853,Standard error =,0.001828488403
+Grand Total,48943,2094,0.04278446356,,,Critical value =,1.959963986
+,,,,,,Margin of error =,0.00358377142
+,,,,,,Lower bound =,0.00348605116
+,,,,,,Upper bound =,0.010653594
